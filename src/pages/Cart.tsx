@@ -14,7 +14,7 @@ const Cart = () => {
   const [isLargerThan345] = useMediaQuery("(min-width: 345px)");
 
   return (
-    <Flex w="80%" mx="auto" direction="column" p={3}>
+    <Flex w="70%" mx="auto" direction="column" p={3}>
       <Flex
         display={{ base: "none", bigTablet: "flex" }}
         fontWeight="bold"
