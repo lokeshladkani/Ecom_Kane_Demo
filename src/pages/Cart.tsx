@@ -28,7 +28,7 @@ const Cart = () => {
         <Text w="80%" pl={3}>
           Quantity
         </Text>
-        <Text w="50%" pl={3}>
+        <Text w="70%" pl={3}>
           Unit Price
         </Text>
         <Text w="30%" pl={3}>
