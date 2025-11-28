@@ -22,10 +22,10 @@ const Cart = () => {
         mb={3}
         color="gray.600"
       >
-        <Text w="60%" pl={3}>
+        <Text w="70%" pl={3}>
           Item
         </Text>
-        <Text w="50%" pl={3}>
+        <Text w="80%" pl={3}>
           Quantity
         </Text>
         <Text w="50%" pl={3}>
