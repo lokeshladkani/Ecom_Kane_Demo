@@ -40,3 +40,4 @@ When deploying the application, serve the files in the `"./dist"` directory.
 
 A live demo of the code can be found here: [Shopping App](https://viaxco-ecommerce-demo.netlify.app/)
 # Ecom_Kane_Demo
+# Ecom_Kane_Demo
