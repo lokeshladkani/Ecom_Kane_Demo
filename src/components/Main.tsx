@@ -32,7 +32,7 @@ const Main = ({ children }: Props) => {
       h="100%"
       rounded="md"
       border="1px solid"
-      borderColor="gray.200"
+      borderColor="gray.400"
     >
       <Flex p={3} pb={0} align="flex-end" justify="space-between" flexWrap="wrap">
         <HStack align="flex-end" mr={5} mb={5}>
@@ -66,7 +66,7 @@ const Main = ({ children }: Props) => {
               minW="fit-content"
               size={isLargerThan567 ? "sm" : "xs"}
               rounded="base"
-              borderColor="gray.400"
+              borderColor="gray.500"
               cursor="pointer"
             >
               <option value="option1">Delivery options</option>
