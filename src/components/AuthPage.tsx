@@ -66,7 +66,7 @@ const AuthPage = ({ authType }: Props) => {
             action="/"
             maxW="480px"
             px={6}
-            pt={6}
+            pt={8}
             pb={12}
             boxShadow="lg"
             m="auto"

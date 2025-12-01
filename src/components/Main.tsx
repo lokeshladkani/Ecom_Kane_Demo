@@ -66,7 +66,7 @@ const Main = ({ children }: Props) => {
               minW="fit-content"
               size={isLargerThan567 ? "sm" : "xs"}
               rounded="base"
-              borderColor="gray.400"
+              borderColor="gray.500"
               cursor="pointer"
             >
               <option value="option1">Delivery options</option>
