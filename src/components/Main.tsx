@@ -32,7 +32,8 @@ const Main = ({ children }: Props) => {
       h="100%"
       rounded="md"
       border="1px solid"
-      borderColor="gray.400"
+      borderColor="gray.700"
+      borderColor="gray.500"
     >
       <Flex p={3} pb={0} align="flex-end" justify="space-between" flexWrap="wrap">
         <HStack align="flex-end" mr={5} mb={5}>
